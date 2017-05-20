@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost/listicle
+    username: listicle
+    password: vbfgrt45
+    driverClassName: org.postgresql.Driver
+  jpa:
+    show_sql: true
