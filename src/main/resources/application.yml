@@ -6,3 +6,7 @@ spring:
     driverClassName: org.postgresql.Driver
   jpa:
     show_sql: true
+    properties:
+      hibernate:
+        jdbc:
+          time_zone: UTC
