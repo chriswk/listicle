@@ -1,1 +1,0 @@
-COPY listicle.country FROM 'd:\src\listicle\src\main\resources\countries.csv' DELIMITER ',' CSV

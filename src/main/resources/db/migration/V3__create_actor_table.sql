@@ -1,4 +1,4 @@
-CREATE SEQUENCE listicle.s_actor_id START WITH 1;
+CREATE SEQUENCE listicle.s_actor_id START WITH 100;
 
 CREATE TABLE listicle.actor (
   id BIGINT NOT NULL,
